@@ -188,5 +188,19 @@
   "soundOn": "Sonido activado",
   "soundOff": "Sonido desactivado",
   "sceneLabel": "Un viajero por el bosque",
-  "assetError": "No se pudo cargar una imagen. Recarga la página."
+  "assetError": "No se pudo cargar una imagen. Recarga la página.",
+  "townExplore": "Paseo por la aldea",
+  "walkHint": "← → / A D: caminar · Toca el suelo · E: hablar cerca",
+  "walkLeft": "Caminar a la izquierda",
+  "walkRight": "Caminar a la derecha",
+  "talk": "Hablar",
+  "walkCloser": "Acércate a un comerciante o cartel.",
+  "shopGreeting": "Bienvenido, viajero. Mira nuestros productos.",
+  "academyGreeting": "Aquí puedes repasar las palabras de tu viaje.",
+  "enterShop": "Entrar en la tienda",
+  "enterAcademy": "Entrar en la academia",
+  "products": "Productos",
+  "tooHeavy": "Supera la capacidad de carga.",
+  "equipmentReady": "Equipa la compra en Estado y equipo.",
+  "leaveShop": "Salir a la calle"
 }

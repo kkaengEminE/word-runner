@@ -31,3 +31,8 @@
 
 ## 별도 보관: 단어불꽃축제
 10~50단어 단어장이 자동 공연이 되는 별도 아이디어. fire의 네 글자가 각각 상승해 터지는 방식과, 1차 폭발에서 fire가 나타난 뒤 2차 폭발에서 '불'이 나타나는 방식. 독립 앱/미니게임/마을 저녁 행사 가능성. 현재 러너에는 구현하지 않는다.
+
+
+## Walkable village update (2026-10-02)
+
+Villages are continuous side-scrolling streets. Players approach the cat general merchant, dog equipment merchant or owl academy scholar, talk, then choose to enter. Shops display the merchant, selectable goods, prices, descriptions and a purchase action. Leaving returns to the same street position. Keyboard and touch movement are supported; menus suspend movement. Existing combat, economy, learning records and browser saves are preserved.

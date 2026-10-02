@@ -28,6 +28,8 @@ Open http://127.0.0.1:4174 . No build, paid service, account, or API key is requ
 ## Playable scope
 
 - Three villages, two paths, ten curated beginner English nouns.
+- Walkable side-scrolling villages: arrow keys / A D, touch arrows, or tap the ground. Approach a merchant and press E / Talk, then enter the shop.
+- Merchant portraits, selectable products, prices, details, inventory counts and a return-to-street action.
 - Automatic word → meaning → paired presentation, adjustable speed, pause, background-tab pause.
 - Multiple-choice and spelling battles, randomized enemy formations, exact repeated-hit double strikes, critical hits, evasion, one-hit shields and healing potions.
 - Gold, XP, level growth, equipment weight limits, sword/staff class switching, village shops.
@@ -53,9 +55,9 @@ No ad SDK, billing or telemetry is included. Mobile advertising and Steam premiu
 
 ## Visual assets and limitations
 
-Built-in image generation created the woodland, hero atlas and creature atlas once each, matching the approved Mucha-style board. The approved second board is included for village background crops. Exact image generation prompts and sources are described in `ART.md`.
+Built-in image generation created the woodland, hero atlas and creature atlas once each, matching the approved Mucha-style board. The approved second board is retained as a reference; a new panoramic Art Nouveau street supports village walking. Exact image generation prompts and sources are described in `ART.md`.
 
-The hero uses a small prototype pose atlas, procedural bob/jump/crouch and attack motion; it is not a complete hand-authored animation cycle. Village backgrounds are crops of the approved board and need higher-resolution standalone art for production. Monster atlases contain soft colored glows. Music, full 20-village content, boss encounters, native packaging, cloud saves, 50-word exams, quote collections and forgetting events are future work.
+The hero uses a small prototype pose atlas, procedural bob/jump/crouch and attack motion; it is not a complete hand-authored animation cycle. The three prototype towns share the same panoramic street with subtle color variations; distinct village layouts remain future work. Monster atlases contain soft colored glows. Music, full 20-village content, boss encounters, native packaging, cloud saves, 50-word exams, quote collections and forgetting events are future work.
 
 ## Extending locales and content
 

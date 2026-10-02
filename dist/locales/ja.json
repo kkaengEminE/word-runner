@@ -188,5 +188,19 @@
   "soundOn": "効果音オン",
   "soundOff": "効果音オフ",
   "sceneLabel": "森を旅する勇者",
-  "assetError": "画像を読み込めません。再読み込みしてください。"
+  "assetError": "画像を読み込めません。再読み込みしてください。",
+  "townExplore": "村を散歩",
+  "walkHint": "← → / A Dで移動 · 地面をタップ · 近くでEで話す",
+  "walkLeft": "左へ歩く",
+  "walkRight": "右へ歩く",
+  "talk": "話す",
+  "walkCloser": "店主や看板に近づいてください。",
+  "shopGreeting": "旅人さん、いらっしゃい。商品をご覧ください。",
+  "academyGreeting": "ようこそ。旅で出会った単語を復習しましょう。",
+  "enterShop": "店に入る",
+  "enterAcademy": "学堂に入る",
+  "products": "商品",
+  "tooHeavy": "重量制限を超えています。",
+  "equipmentReady": "購入後、ステータスと装備で装備できます。",
+  "leaveShop": "外へ出る"
 }

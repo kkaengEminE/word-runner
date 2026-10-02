@@ -188,5 +188,19 @@
   "soundOn": "효과음 켜짐",
   "soundOff": "효과음 꺼짐",
   "sceneLabel": "숲을 여행하는 용사",
-  "assetError": "그림을 불러오지 못했어요. 새로고침해 주세요."
+  "assetError": "그림을 불러오지 못했어요. 새로고침해 주세요.",
+  "townExplore": "마을 산책",
+  "walkHint": "← → / A D로 이동 · 바닥을 눌러 이동 · 가까이에서 E로 대화",
+  "walkLeft": "왼쪽으로 걷기",
+  "walkRight": "오른쪽으로 걷기",
+  "talk": "말 걸기",
+  "walkCloser": "상점 주인이나 안내판 가까이 걸어가 보세요.",
+  "shopGreeting": "여행자님, 어서 오세요. 필요한 물건을 천천히 둘러보세요.",
+  "academyGreeting": "어서 오세요. 이곳에서 여정의 단어들을 되짚어 볼 수 있어요.",
+  "enterShop": "상점 들어가기",
+  "enterAcademy": "학당 들어가기",
+  "products": "상품 목록",
+  "tooHeavy": "무게 한도를 초과합니다.",
+  "equipmentReady": "구매 후 상태와 장비에서 착용할 수 있어요.",
+  "leaveShop": "밖으로 나가기"
 }

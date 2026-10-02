@@ -10,3 +10,8 @@ All original raster assets generated with the built-in imagegen tool, not a fall
 Generation brief for the three new assets: preserve the approved hero and Mucha parchment/teal/gold style, individual readable game assets, consistent side-view framing, no text, no UI, no Asian motifs. One generation per asset, no variants. Source files saved under `/Users/cclss/.codex/generated_images/01a0ec2a-eb9a-78f1-964a-6c70b6b5aec3/` with respective names `exec-5756424e-54e1-4963-92bc-80ebefd88c21.png`, `exec-0d1528e2-523a-4c73-a31e-f82ee26ae611.png`, `exec-7c673c15-72b6-4d87-b2dc-83a54db24b56.png`.
 
 Rendering uses Canvas source rectangles; source assets have not been destructively edited. Pose animation is provisional. Replace village board crops and add a full animation atlas before production release.
+
+
+## Walkable village street
+
+`dist/assets/village-street.png` is a new generated 2173 × 724 panoramic background. Prompt: side-scrolling European fantasy village in Mucha Art Nouveau ink and watercolor; sage, cream and antique gold; general shop, equipment shop and academy; flat continuous ground; no people, animals, UI or text. Original asset remains in the Codex generated-images folder. Existing hero and animal atlases are composited separately. Three prototype towns share this street with subtle color washes.

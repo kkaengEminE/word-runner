@@ -188,5 +188,19 @@
   "soundOn": "Sound on",
   "soundOff": "Sound off",
   "sceneLabel": "A traveler on a woodland journey",
-  "assetError": "An illustration could not load. Please reload the page."
+  "assetError": "An illustration could not load. Please reload the page.",
+  "townExplore": "Village walk",
+  "walkHint": "← → / A D to walk · Tap the ground to move · E to talk nearby",
+  "walkLeft": "Walk left",
+  "walkRight": "Walk right",
+  "talk": "Talk",
+  "walkCloser": "Walk closer to a merchant or sign.",
+  "shopGreeting": "Welcome, traveler. Take a look at our wares.",
+  "academyGreeting": "Welcome. Revisit the words from your journey here.",
+  "enterShop": "Enter shop",
+  "enterAcademy": "Enter academy",
+  "products": "Products",
+  "tooHeavy": "Exceeds carrying capacity.",
+  "equipmentReady": "Equip your purchase in Status & Equipment.",
+  "leaveShop": "Return outside"
 }
