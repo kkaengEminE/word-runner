@@ -2,6 +2,17 @@
 
 A playable browser prototype of an Art Nouveau vocabulary-learning RPG.
 
+## Repository
+
+Source repository: [kkaengEminE/word-runner](https://github.com/kkaengEminE/word-runner) (private).
+
+Clone with an authorized GitHub account, then follow the local run instructions below:
+
+```sh
+gh repo clone kkaengEminE/word-runner
+cd word-runner
+```
+
 ## Run
 
 Requires Python 3 for the static server, Node.js 20+ only for checks.
